@@ -1,0 +1,50 @@
+/*Includes styling of elements*/
+
+body{
+    background: #CCC;
+}
+
+#Header a:hover
+{
+    color: #FFF;
+}
+
+
+#About .fa
+{
+    color: #FFF;
+}
+
+#About
+{
+    margin-top: 80px;
+}
+
+#About span{
+
+    padding: 10px 20px 10px 20px;
+}
+#About hr{
+    border-width: 2px;
+    margin-top: 6px;
+    border-color: #dc3545!important;
+}
+
+#Skills span{
+    padding: 10px 20px 10px 20px;
+}
+#Skills hr{
+    border-width: 2px;
+    margin-top: 6px;
+    border-color: #007bff!important;
+}
+
+#Experience span{
+    padding: 10px 20px 10px 20px;
+}
+
+#Experience hr{
+    border-width: 2px;
+    margin-top: 6px;
+    border-color:#28a745!important;
+}
